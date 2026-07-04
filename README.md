@@ -69,9 +69,35 @@ A **Cohort Retention Analysis** that groups customers by their acquisition month
 
 ## 📬 Contact
 
-Anushree Saha
 
-- LinkedIn -  https://www.linkedin.com/in/anushree-saha-4bb3a4368/
-- Email - riyaggit58@gmail.com
+<div align="center">
 
-<p align="center">⭐ Star this repo if you found it helpful! ⭐</p> ```
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!;Open+to+collaborations+%26+opportunities;Feel+free+to+reach+out+anytime!" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<p align="center">
+  <a href="www.linkedin.com/in/anushree-saha-4bb3a4368">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" height="60"/>
+  </a>
+  <a href="mailto:riyaggit58@gmail.com">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" height="60"/>
+  </a>
+  <a href="https://github.com/12Anushree">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" height="60"/>
+  </a>
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⭐ If you found this project helpful, please give it a star!
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="12Anushreee" />
+
+</div>
